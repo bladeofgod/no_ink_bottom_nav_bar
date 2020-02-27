@@ -2,6 +2,15 @@
 
 import 'package:flutter/material.dart';
 
+/*
+*    Theme(
+*      data: ThemeData(splashFactory: NoInkWellFactory()),
+*      child: childWidget,
+*   );
+*
+*
+* */
+
 
 class NoInkWellFactory extends InteractiveInkFeatureFactory{
   @override
